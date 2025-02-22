@@ -1,8 +1,4 @@
 # SideNote
-## Short description | Краткое описание
-This is sidebar for quick notes.
-Это боковая панель для быстрых заметок
-
 ## Description | Описание
 ### eng
 SideNote - is a sliding sidebar for quick notes. This program creates a translucent strip on the edge of the screen, which can be quickly expanded into a full-fledged panel with notes when hovering the mouse cursor with the shift key pressed. This idea should reduce the time spent searching and creating notes. This can be extremely useful during active work or the usual need to create notes. The program is still in its early stages of development.
